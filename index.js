@@ -18,12 +18,6 @@ var lowercase = 'hello!'
 lowercase.toLowerCase() === lowercase
 
 if (string = "hello!") {
-  return "I can't hear you!"
+  console.log ("I can't hear you!"())
 } 
-}
-
-function sayHiToGrandma(string) {
-if (string = "HELLO!") {
-  return "YES INDEED"
-}
 }
