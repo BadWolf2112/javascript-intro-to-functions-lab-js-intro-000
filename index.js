@@ -20,6 +20,8 @@ lowercase.toLowerCase() === lowercase
 if (string = "hello!") {
   return "I can't hear you!"
 } 
+
+function sayHiToGrandma(string) {
 if (sting = "HELLO!") {
   return "YES INDEED"
 }
