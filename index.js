@@ -19,8 +19,8 @@ lowercase.toLowerCase() === lowercase
 
 if (string = "hello!") {
   return "I can't hear you!"
-}  else if (string = "HELLO!") {
-  return "YES INDEED! "
-} else (string = "I love you, Grandma.")
-
+} 
+if (sting = "HELLO!") {
+  return "YES INDEED"
+}
 }
