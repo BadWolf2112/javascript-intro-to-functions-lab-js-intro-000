@@ -21,10 +21,5 @@ mixedCase.toLowerCase === mixedCase
 
 mixedCase.toUpperCase === mixedCase
 
-if (string = "hello!") {
-  return "I can't hear you!"
-} 
-if (string = "HELLO") {
-  return "YES INDEED!"
-}
+switch() 
 }
