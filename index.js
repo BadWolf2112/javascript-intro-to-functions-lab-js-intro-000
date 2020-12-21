@@ -29,5 +29,4 @@ if (string = uppercase) {
 } else (string = mixedCase); {
   return "I love you, too.";
 }
-switch ()
 }
