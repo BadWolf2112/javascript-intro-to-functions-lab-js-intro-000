@@ -24,7 +24,7 @@ mixedCase.toUpperCase === mixedCase;
 if (string = uppercase) {
   return "YES INDEED!";
 } else if (string = lowercase){
-  return "I can't hear you!";
+  return "I can\'t hear you!";
 } else (string = mixedCase); {
   return "I love you, too.";
 }
