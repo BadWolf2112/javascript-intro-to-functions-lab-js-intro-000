@@ -23,10 +23,10 @@ mixedCase.toLowerCase === mixedCase;
 mixedCase.toUpperCase === mixedCase;
 
 if (string = uppercase) {
-  condole.log ("YES INDEED!");
-} else if (string = lowercase){
+  console.log("YES INDEED!");
+} else if(string = lowercase){
   console.log ("I can\'t hear you!");
-} else (string = mixedCase); {
+} else (string = I love you, Grandma.); {
   return "I love you, too.";
 }
 }
