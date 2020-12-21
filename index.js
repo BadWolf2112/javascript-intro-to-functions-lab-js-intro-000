@@ -1,0 +1,2 @@
+Functionshout(string) {
+}
