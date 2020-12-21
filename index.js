@@ -19,6 +19,7 @@ lowercase.toLowerCase() === lowercase
 
 if (string = "hello!") {
   return "I can't hear you!"
-}  
+  
+} else  
 
 }
