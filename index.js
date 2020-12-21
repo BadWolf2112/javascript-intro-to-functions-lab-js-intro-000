@@ -21,5 +21,5 @@ mixedCase.toLowerCase === mixedCase
 
 mixedCase.toUpperCase === mixedCase
 
-switch() 
+
 }
