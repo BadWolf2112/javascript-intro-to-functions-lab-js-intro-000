@@ -10,6 +10,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log (string.toLowerCase());
 }
+
 function sayHiToGrandma(string) {
 
 var uppercase = "HELLO!";
@@ -28,4 +29,5 @@ if (string = uppercase) {
 } else (string = mixedCase); {
   return "I love you, too.";
 }
+switch ()
 }
